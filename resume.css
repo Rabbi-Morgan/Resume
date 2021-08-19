@@ -151,3 +151,11 @@ ul {
         background-color: transparent;
     }
 }
+.logos img {
+    display: inline-block;
+    padding: 1rem;
+    width: 200px;
+}
+#hng, #zuri {
+    width: 100px;
+}
